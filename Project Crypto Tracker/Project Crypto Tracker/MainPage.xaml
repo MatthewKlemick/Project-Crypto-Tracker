@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_Crypto_Tracker.MainPage">
+
+    <StackLayout>
+        <Button x:Name="Rbuton" AutomationId="RefButton" Text="Refresh" Clicked="Rbuton_Clicked"/>
+        <ListView x:Name="cryptoListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="0,0,0,0">
+                            <Image Source="{Binding Icon_link}" WidthRequest="60"/>
+                            <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" Padding="0,0,0,0">
+                                <Label Text="{Binding Name}" FontAttributes="Bold"/>
+                                <Label Text="{Binding Price_USD, StringFormat='USD {0:c}'}"/>
+                            </StackLayout>
+                            <Label Text="{Binding Asset_Id, StringFormat='{0:c}ㅤ'}" HorizontalOptions="End" VerticalOptions="CenterAndExpand"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\bin\Debug\netstandard2.0\Project Crypto Tracker.deps.json
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\bin\Debug\netstandard2.0\Project Crypto Tracker.dll
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\bin\Debug\netstandard2.0\ref\Project Crypto Tracker.dll
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\bin\Debug\netstandard2.0\Project Crypto Tracker.pdb
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\Project Crypto Tracker.csprojAssemblyReference.cache
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\Project Crypto Tracker.AssemblyInfoInputs.cache
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\Project Crypto Tracker.AssemblyInfo.cs
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\Project Crypto Tracker.csproj.CoreCompileInputs.cache
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\Project Crypto Tracker.dll
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\ref\Project Crypto Tracker.dll
+C:\tecprogramfile\Project Crypto Tracker\Project Crypto Tracker\Project Crypto Tracker\obj\Debug\netstandard2.0\Project Crypto Tracker.pdb
